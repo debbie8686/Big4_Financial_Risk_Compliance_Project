@@ -10,6 +10,6 @@ And using SQL to provide insights into audit performance trends, industry-relate
 ## Business Objective
 This analysis provides decision-makers with valuable business insights.
 
-### Evaluating Audit Performance Trends: It explores how audit engagements and the identification of high-risk cases have evolved over time within accounting firms.  
-### Impact of AI Adoption on User Satisfaction: It assesses whether the implementation of AI technologies has improved audit effectiveness and enhanced client satisfaction.  
-### Fraud Detection Review: By training AI models on historical fraud data and setting them to trigger alerts when patterns resemble past fraud cases, the system can effectively flag irregularities as potential signs of fraud.
+**Evaluating Audit Performance Trends:** It explores how audit engagements and the identification of high-risk cases have evolved over time within accounting firms.  
+**Impact of AI Adoption on User Satisfaction:** It assesses whether the implementation of AI technologies has improved audit effectiveness and enhanced client satisfaction.  
+***Fraud Detection Review:*** By training AI models on historical fraud data and setting them to trigger alerts when patterns resemble past fraud cases, the system can effectively flag irregularities as potential signs of fraud.
