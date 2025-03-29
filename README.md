@@ -19,3 +19,5 @@ It assesses whether the implementation of AI technologies has improved audit eff
 **Fraud Detection Review:** 
 By training AI models on historical fraud data and setting them to trigger alerts when patterns resemble past fraud cases, 
 the system can effectively flag irregularities as potential signs of fraud.
+
+#### **[Big 4 Financial Risk Trends Tableau Dashboard]([https://public.tableau.com/app/profile/debbie.chen5726/viz/Big4FinancialRiskInsights/Dashboard1])**
